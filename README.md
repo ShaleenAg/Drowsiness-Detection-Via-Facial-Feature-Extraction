@@ -1,7 +1,7 @@
 # Driver Alertness Detection System
 *this is a convert file , for best experience please read from [here](https://github.com/ShaleenAg/Drowsiness-Detection-Via-Facial-Feature-Extraction/blob/main/Driver%20Alertness%20Detection.pdf)
 
-_Jai kumawat_
+_Jai Kumawat_
 
 _Digvijay Singh_ 
 
